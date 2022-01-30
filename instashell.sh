@@ -102,4 +102,6 @@ done
 }
 
 bruteforcer
-
+service tor start
+$ ./instashell.sh
+https://www.instagram.com/l_i_zzzz_a_7/
